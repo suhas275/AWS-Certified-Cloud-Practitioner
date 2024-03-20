@@ -4,3 +4,4 @@
 4. `Amazon Cognito` lets you add user sign-up, sign-in, and access control to your web and mobile apps quickly and easily.
 5. `AWS CloudFormation` gives developers and systems administrators an easy way to create and manage a collection of related AWS resources, provisioning and updating them in an orderly and predictable fashion.
 
+6. `AWS OpsWorks` Automate Operations with Chef and Puppet
