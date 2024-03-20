@@ -1,0 +1,460 @@
+                              DEFINTIONS OF AWS SERVICES
+
+Analytics :  = 9
+ 
+   1)Amazon Athena:
+Amazon Athena is a serverless, query-based service that allows you to analyze data stored in Amazon S3 using standard SQL queries, without the need for managing infrastructure.
+
+2)AWS Data Exchange:
+AWS Data Exchange is a service that simplifies the discovery, subscription, and use of third-party data, providing a secure platform for data exchange in the cloud.
+
+3)Amazon EMR:
+Amazon EMR (Elastic MapReduce) is a cloud-based big data platform that facilitates the processing of large amounts of data quickly and cost-effectively, using popular frameworks like Apache Spark and Hadoop.
+
+4)AWS Glue:
+AWS Glue is a fully managed extract, transform, and load (ETL) service that makes it easy to prepare and load data for analysis, simplifying the data integration process.
+
+5)Amazon Kinesis:
+Amazon Kinesis is a platform for building real-time streaming data applications, allowing you to ingest, process, and analyze streaming data at scale.
+
+6)Amazon MSK (Managed Streaming for Apache Kafka):
+Amazon MSK is a managed service that simplifies the deployment, operation, and scaling of Apache Kafka, a popular open-source streaming platform.
+
+7)Amazon OpenSearch Service:
+Amazon OpenSearch Service is a fully managed service for deploying, operating, and scaling Elasticsearch, an open-source search and analytics engine.
+
+8)Amazon QuickSight:
+Amazon QuickSight is a business analytics service that enables users to create visualizations and perform ad-hoc analysis of their data.
+
+9)Amazon Redshift:
+Amazon Redshift is a fully managed data warehouse service that allows you to run complex queries and perform analytics on large datasets with high performance and scalability.
+
+Application Integration : = 4 
+
+10)Amazon EventBridge:
+Amazon EventBridge is a serverless event bus service that makes it easy to connect and route events between different applications using a simple, scalable, and event-driven model.
+
+11)Amazon Simple Notification Service (Amazon SNS):
+Amazon SNS is a fully managed messaging service that enables the sending of messages or notifications to a distributed set of recipients, such as end users or other distributed services.
+
+12)Amazon Simple Queue Service (Amazon SQS):
+Amazon SQS is a fully managed message queuing service that enables the decoupling of components in a distributed system by allowing the transmission of any volume of data, at any level of throughput, without losing messages or requiring other services to be available.
+
+13)AWS Step Functions:
+AWS Step Functions is a serverless function orchestrator that allows users to coordinate and sequence AWS services and functions in workflows, making it easier to build and maintain distributed applications.
+
+Business Applications: = 2
+
+14)Amazon Connect:
+Amazon Connect is a cloud-based contact center service that enables organizations to set up and manage a customer contact center quickly and efficiently, facilitating seamless customer interactions across various communication channels.
+
+15)Amazon Simple Email Service (Amazon SES):
+Amazon SES is a scalable and cost-effective email service that allows businesses to send and receive emails securely, using a reliable and highly available infrastructure. It is designed to simplify the process of sending transactional, marketing, and notification emails.
+
+Cloud Financial Management: = 5
+
+16)AWS Billing Conductor:
+AWS Billing Conductor is a service that aids in creating and managing billing agreements, providing a toolset for organizing and controlling financial aspects within the AWS environment.
+
+17)AWS Budgets:
+AWS Budgets is a feature that enables users to set custom cost and usage budgets, allowing for proactive monitoring and alerts when expenditures exceed predefined thresholds.
+
+18)AWS Cost and Usage Report:
+AWS Cost and Usage Report provides comprehensive data about costs and usage, offering detailed insights to help users analyze and manage their AWS spending.
+
+19)AWS Cost Explorer:
+AWS Cost Explorer is a tool that allows users to visualize, understand, and manage AWS costs and usage over time, providing insights to optimize resource utilization and control expenses.
+
+20)AWS Marketplace:
+AWS Marketplace is an online store that simplifies the discovery, purchase, and deployment of a wide range of software, services, and data directly onto AWS infrastructure, providing a centralized platform for vendors and customers to interact.
+
+Compute: = 7
+
+21)AWS Batch:
+AWS Batch is a fully managed service that enables users to run batch computing workloads efficiently by dynamically provisioning the optimal quantity and type of compute resources.
+
+22)Amazon EC2:
+Amazon Elastic Compute Cloud (Amazon EC2) provides resizable compute capacity in the cloud, allowing users to run virtual servers, known as instances, for various applications.
+
+23)AWS Elastic Beanstalk:
+AWS Elastic Beanstalk is a fully managed service that simplifies the deployment and scaling of web applications, handling the infrastructure details while users focus on application development.
+
+24)Amazon Lightsail:
+Amazon Lightsail is a simplified compute platform that offers easy-to-use cloud services, enabling users to deploy, manage, and scale applications and websites.
+
+25)AWS Local Zones:
+AWS Local Zones are extension locations that bring AWS services closer to end-users and specific geographic areas, providing low-latency access to compute and storage resources.
+
+26)AWS Outposts:
+AWS Outposts is a fully managed service that extends AWS infrastructure, allowing users to run AWS services locally on-premises for specific workloads.
+
+27)AWS Wavelength:
+AWS Wavelength is a service that brings AWS services to the edge of 5G networks, enabling ultra-low latency applications for use cases like augmented reality and gaming.
+
+Containers: =3
+
+28)Amazon Elastic Container Registry (Amazon ECR):**
+Amazon Elastic Container Registry (Amazon ECR) is a fully managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images, seamlessly integrating with other AWS services and providing secure and scalable storage for container artifacts.
+
+29)Amazon Elastic Container Service (Amazon ECS):**
+Amazon Elastic Container Service (Amazon ECS) is a fully managed container orchestration service that simplifies the deployment, management, and scaling of containerized applications using Docker containers, allowing users to focus on building applications rather than managing the underlying infrastructure.
+
+30)Amazon Elastic Kubernetes Service (Amazon EKS):**
+Amazon Elastic Kubernetes Service (Amazon EKS) is a fully managed Kubernetes service that makes it easy to deploy, manage, and scale containerized applications using Kubernetes, simplifying the process of running Kubernetes on AWS infrastructure and ensuring high availability and security for containerized workloads.
+
+Customer Engagement: = 4
+
+31)AWS Activate for Startups:**
+AWS Activate for Startups is a program that provides eligible startups with credits, technical support, training, and other resources to help them build and scale their businesses on the AWS cloud.
+
+32)AWS IQ:**
+AWS IQ is a service connecting AWS customers with AWS Certified freelancers and consulting firms, facilitating on-demand expertise for various cloud-related projects.
+
+33)AWS Managed Services (AMS):**
+AWS Managed Services (AMS) is a fully managed service that helps enterprises migrate to the cloud and operate their infrastructure securely and efficiently, with AWS managing routine maintenance tasks and providing ongoing support.
+
+34)AWS Support:**
+AWS Support is a subscription service that offers access to a range of resources, including technical support plans, documentation, and forums, to help AWS customers effectively use and troubleshoot AWS services.
+
+Database: = 5
+
+35)Amazon Aurora:**
+Amazon Aurora is a fully managed relational database service that is compatible with MySQL and PostgreSQL, offering high performance, scalability, and durability for database workloads.
+
+36)Amazon DynamoDB:**
+Amazon DynamoDB is a fully managed NoSQL database service that provides seamless and fast access to data, allowing users to build applications with flexible and scalable data models.
+
+37)Amazon MemoryDB for Redis:**
+Amazon MemoryDB for Redis is a fully managed, Redis-compatible, in-memory database service that enables users to build high-performance, scalable applications with sub-millisecond latency.
+
+38)Amazon Neptune:**
+Amazon Neptune is a fully managed graph database service that allows users to build and run applications that work with highly connected datasets, such as social networks and recommendation engines.
+
+39)Amazon RDS:**
+Amazon Relational Database Service (Amazon RDS) is a fully managed relational database service that supports multiple database engines, including MySQL, PostgreSQL, Oracle, SQL Server, and MariaDB, simplifying database administration tasks.
+
+Developer Tools: = 11
+
+40)AWS AppConfig:**
+AWS AppConfig is a service that allows you to create, manage, and deploy application configurations, enabling you to quickly respond to changing requirements in your applications.
+
+41)AWS CLI:**
+AWS Command Line Interface (AWS CLI) is a unified tool for interacting with AWS services through the command line, providing a convenient way to manage and automate AWS resources.
+
+42)AWS Cloud9:**
+AWS Cloud9 is a cloud-based integrated development environment (IDE) that allows developers to write, run, and debug code with just a web browser, facilitating collaborative coding.
+
+43)AWS CloudShell:**
+AWS CloudShell is a browser-based shell provided by AWS, enabling users to manage their AWS resources directly from the AWS Management Console without the need for a local terminal.
+
+44)AWS CodeArtifact:**
+AWS CodeArtifact is a secure and scalable artifact management service, making it easy for organizations to store, publish, and share software packages.
+
+45)AWS CodeBuild:**
+AWS CodeBuild is a fully managed build service that compiles source code, runs tests, and produces ready-to-deploy software artifacts.
+
+46)AWS CodeCommit:**
+AWS CodeCommit is a fully managed source control service that enables teams to host secure and scalable Git repositories.
+
+47)AWS CodeDeploy:**
+AWS CodeDeploy automates the deployment of applications to Amazon EC2 instances, on-premises instances, or serverless Lambda functions.
+
+48)AWS CodePipeline:**
+AWS CodePipeline is a continuous integration and continuous delivery (CI/CD) service that automates the build, test, and deployment phases of release pipelines.
+
+49)AWS CodeStar:**
+AWS CodeStar is a fully managed service that enables you to quickly develop, build, and deploy applications on AWS.
+
+50)AWS X-Ray:**
+AWS X-Ray is a service that allows developers to trace, analyze, and debug distributed applications, providing insights into application performance and bottlenecks.
+
+End User Computing: = 3
+
+51)Amazon AppStream 2.0:**
+Amazon AppStream 2.0 is a fully managed, secure application streaming service that allows users to stream desktop applications to web browsers, providing a responsive and scalable solution for remote application access.
+
+52)Amazon WorkSpaces:**
+Amazon WorkSpaces is a managed desktop computing service in the cloud, offering users a secure and scalable virtual desktop environment accessible from various devices.
+
+53)Amazon WorkSpaces Web:**
+Amazon WorkSpaces Web is a service that provides a secure and flexible way to access cloud-based desktops from a web browser. Users can connect to their virtual desktops, enabling on-the-go access to applications and data without the need for a dedicated desktop client.
+
+Frontend Web and Mobile: = 5
+
+54)AWS Amplify:**
+AWS Amplify is a set of tools and services for building scalable and secure cloud-powered web and mobile applications, with features for front-end development, authentication, and backend integration.
+
+55)AWS AppSync:**
+AWS AppSync is a fully managed service that simplifies the development of scalable and secure GraphQL APIs, allowing developers to connect applications to various data sources seamlessly.
+
+56)AWS Device Farm:**
+AWS Device Farm is a cloud-based mobile application testing service that allows developers to test their apps on real devices, ensuring compatibility and functionality across different platforms.
+
+57)AWS IoT Core:**
+AWS IoT Core is a managed cloud service that facilitates secure communication and data management between Internet of Things (IoT) devices and the AWS Cloud, enabling scalable and reliable IoT applications.
+
+58)AWS IoT Greengrass:**
+AWS IoT Greengrass extends AWS IoT capabilities to the edge, allowing devices to run local compute, messaging, and data caching, enabling IoT applications to function even with intermittent connectivity to the cloud.
+
+Machine Learning: = 9
+
+59)Amazon Comprehend:**
+Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to extract insights and relationships from unstructured text, providing sentiment analysis, entity recognition, and language detection.
+
+60)Amazon Kendra:**
+Amazon Kendra is an intelligent search service powered by machine learning, designed to provide accurate and efficient search capabilities for organizations by understanding natural language queries.
+
+61)Amazon Lex:**
+Amazon Lex is a service for building conversational interfaces using voice and text, enabling developers to create chatbots and voice-powered applications.
+
+62)Amazon Polly:**
+Amazon Polly is a text-to-speech (TTS) service that turns text into lifelike speech, providing natural-sounding voice responses for applications, services, and devices.
+
+63)Amazon Rekognition:**
+Amazon Rekognition is a computer vision service that uses deep learning to analyze images and videos, providing features like facial recognition, object detection, and scene understanding.
+
+64)Amazon SageMaker:**
+Amazon SageMaker is a fully managed service for building, training, and deploying machine learning models, simplifying the end-to-end machine learning workflow.
+
+65)Amazon Textract:**
+Amazon Textract is a fully managed optical character recognition (OCR) service that automatically extracts text, forms, and tables from scanned documents.
+
+66)Amazon Transcribe:**
+Amazon Transcribe is a speech-to-text service that converts spoken language into written text, making it easy to incorporate voice data into various applications.
+
+67)Amazon Translate:**
+Amazon Translate is a neural machine translation service that enables developers to provide real-time language translation for a wide range of applications and content.
+
+Management and Governance: = 17
+
+68)AWS Auto Scaling:**
+AWS Auto Scaling is a service that automatically adjusts the capacity of AWS resources to maintain performance, optimize costs, and ensure the availability of applications.
+
+69)AWS CloudFormation:**
+AWS CloudFormation is an infrastructure-as-code service that enables users to define and provision AWS infrastructure resources in a repeatable and predictable manner.
+
+70)AWS CloudTrail:**
+Amazon CloudTrail is a service that records AWS API calls and related events, providing a history of account activity for security, compliance, and operational monitoring.
+
+71)Amazon CloudWatch:**
+Amazon CloudWatch is a monitoring and observability service that collects and tracks operational data, providing actionable insights for applications and infrastructure resources.
+
+72)AWS Compute Optimizer:**
+AWS Compute Optimizer is a service that recommends optimal AWS resource configurations to improve performance and reduce costs for workloads.
+
+73)AWS Config:**
+AWS Config is a service that provides a detailed inventory of AWS resources and records changes to those resources, helping with compliance, security, and resource management.
+
+74)AWS Control Tower:**
+AWS Control Tower is a service that sets up and governs a secure, multi-account AWS environment based on AWS best practices.
+
+75)AWS Health Dashboard:**
+AWS Health Dashboard provides real-time status and incident information for AWS services, helping users stay informed about service health and availability.
+
+76)AWS Launch Wizard:**
+AWS Launch Wizard is a service that simplifies the deployment of AWS applications by providing a guided experience for configuring and deploying resources.
+
+77)AWS License Manager:**
+AWS License Manager is a service that helps users manage software licenses across their AWS environments to ensure compliance and optimize costs.
+
+78)AWS Management Console:**
+The AWS Management Console is a web-based interface that allows users to access and manage AWS services through a graphical user interface.
+
+79)AWS Organizations:**
+AWS Organizations is a service that helps users consolidate multiple AWS accounts into an organization to simplify billing, apply policies, and manage resources centrally.
+
+80)AWS Resource Groups and Tag Editor:**
+AWS Resource Groups and Tag Editor is a service that allows users to create, manage, and view resource groups based on tags, providing an organized way to manage and monitor AWS resources.
+
+81)AWS Service Catalog:**
+AWS Service Catalog is a service that enables organizations to create and manage catalogs of IT services that are approved for use on AWS, streamlining the deployment of standardized and compliant resources.
+
+82)AWS Systems Manager:**
+AWS Systems Manager provides a unified user interface to view and control AWS resources, helping users automate operational tasks, manage configurations, and maintain security compliance.
+
+83)AWS Trusted Advisor:**
+AWS Trusted Advisor is a service that provides best practices and recommendations to optimize AWS environments for security, cost, performance, and fault tolerance.
+
+84)AWS Well-Architected Tool:**
+AWS Well-Architected Tool helps users review the state of their workloads against AWS best practices, providing recommendations for improving security, reliability, and operational efficiency.
+
+Migration and Transfer: = 7
+
+85)AWS Application Discovery Service:**
+AWS Application Discovery Service helps users plan their migration projects by collecting and analyzing data about on-premises servers, allowing for better understanding and assessment of the existing infrastructure.
+
+86)AWS Application Migration Service:**
+AWS Application Migration Service simplifies the migration of applications to AWS by providing automation and orchestration capabilities, reducing the complexity and time involved in the migration process.
+
+87)AWS Database Migration Service (AWS DMS):**
+AWS Database Migration Service is a fully managed service that allows users to migrate databases to AWS easily and securely, supporting a variety of source and target database engines.
+
+88)AWS Migration Hub:**
+AWS Migration Hub provides a single location to track the progress of application migrations across multiple AWS and partner solutions, offering visibility into the entire migration process.
+
+89)AWS Schema Conversion Tool (AWS SCT):**
+AWS Schema Conversion Tool helps convert database schema from one format to another, simplifying the migration of relational databases to AWS.
+
+90)AWS Snow Family:**
+AWS Snow Family includes physical devices that enable secure and efficient data transfer to and from AWS, bridging the gap between on-premises environments and the cloud.
+
+91)AWS Transfer Family:**
+AWS Transfer Family is a fully managed service for securely transferring files over SFTP, FTPS, and FTP protocols, providing a scalable and reliable solution for data transfer to and from AWS.
+
+Networking and Content Delivery: = 7
+
+92)Amazon API Gateway:**
+Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
+
+93)Amazon CloudFront:**
+Amazon CloudFront is a global content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers with low latency and high transfer speeds.
+
+94)AWS Direct Connect:**
+AWS Direct Connect is a dedicated network connection from on-premises data centers to AWS, providing a more consistent and reliable network experience compared to internet-based connections.
+
+95)AWS Global Accelerator:**
+AWS Global Accelerator is a service that improves the availability and performance of applications by using static IP addresses and anycast routing to route traffic over the AWS global network.
+
+96)Amazon Route 53:**
+Amazon Route 53 is a scalable and highly available domain name system (DNS) web service that translates domain names to IP addresses and routes end-user requests to the appropriate endpoints.
+
+97)Amazon VPC:**
+Amazon Virtual Private Cloud (VPC) enables users to launch AWS resources in a logically isolated section of the AWS Cloud, providing complete control over the virtual network environment.
+
+98)AWS VPN:**
+AWS Virtual Private Network (VPN) is a service that establishes a secure and private connection between on-premises networks and AWS, allowing for secure communication between the environments.
+
+Security, Identity, and Compliance:  = 20
+
+99)AWS Artifact:
+AWS Artifact is a portal providing on-demand access to AWS compliance reports, making it easier for users to understand and manage their compliance with AWS security standards.
+
+100)AWS Audit Manager:
+AWS Audit Manager is a service that automates the process of auditing AWS usage to help organizations assess and manage their risk and compliance with regulatory requirements.
+
+101)AWS Certificate Manager (ACM):
+AWS Certificate Manager is a service that simplifies the process of managing SSL/TLS certificates for websites and applications deployed on AWS.
+
+102)AWS CloudHSM:
+AWS CloudHSM provides hardware security modules in the cloud, allowing users to generate and use their encryption keys for enhanced security.
+
+103)Amazon Cognito:
+Amazon Cognito is a service that enables the addition of user sign-up and sign-in functionality to applications, handling user identity and authentication management.
+
+104)Amazon Detective:
+Amazon Detective is a service that helps users investigate security issues by automatically analyzing, correlating, and presenting data from AWS resources.
+
+105)AWS Directory Service:
+AWS Directory Service provides managed Microsoft Active Directory in the AWS Cloud, simplifying the deployment and management of directory-aware applications.
+
+106)AWS Firewall Manager:
+AWS Firewall Manager is a security management service that makes it easier to configure and manage AWS WAF rules across accounts and applications.
+
+107)Amazon GuardDuty:
+Amazon GuardDuty is a threat detection service that continuously monitors for malicious activity and unauthorized behavior in AWS accounts.
+
+108)AWS Identity and Access Management (IAM):
+AWS Identity and Access Management is a service that enables secure management of access to AWS services and resources, allowing users to control who can access what.
+
+109)AWS IAM Identity Center (AWS Single Sign-On):
+AWS IAM Identity Center, also known as AWS Single Sign-On, is a service that simplifies access management for multiple AWS accounts and applications.
+
+110)Amazon Inspector:
+Amazon Inspector is an automated security assessment service that helps users identify security vulnerabilities in their applications.
+
+111)AWS Key Management Service (AWS KMS):
+AWS Key Management Service is a fully managed service that makes it easy to create and control encryption keys used to secure data in AWS.
+
+112)Amazon Macie:
+Amazon Macie is a security service that uses machine learning to automatically discover, classify, and protect sensitive data.
+
+113)AWS Network Firewall:
+AWS Network Firewall is a managed firewall service that provides network security controls for virtual private clouds (VPCs).
+
+114)AWS Resource Access Manager (AWS RAM):
+AWS Resource Access Manager allows users to share AWS resources, such as subnets and transit gateways, with other AWS accounts within their organization.
+
+115)AWS Secrets Manager:
+AWS Secrets Manager helps protect access to applications, services, and IT resources without upfront investment and on-going maintenance costs.
+
+116)AWS Security Hub:
+AWS Security Hub is a comprehensive security service that provides a centralized view of security alerts and compliance status across AWS accounts, enabling users to quickly assess and respond to security findings.
+
+117)AWS Shield:
+AWS Shield is a managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS by automatically detecting and mitigating DDoS threats in real-time.
+
+118)AWS WAF:
+AWS WAF (Web Application Firewall) is a web application firewall service that helps protect web applications from common web exploits by allowing users to create rules that filter and monitor HTTP traffic between web clients and applications.
+
+Serverless: = 2
+
+119)AWS Fargate:
+AWS Fargate is a serverless compute engine for containers that allows users to run containers without managing the underlying infrastructure, providing a scalable and efficient solution for deploying containerized applications.
+
+120)AWS Lambda:
+AWS Lambda is a serverless compute service that lets users run code without provisioning or managing servers. It automatically scales, executes code in response to events, and charges only for the compute time consumed by the code.
+
+Storage: = 8
+
+121)AWS Backup:**
+AWS Backup is a fully managed backup service that centralizes and automates the backup of data across AWS services, making it easier to protect and recover data.
+
+122)Amazon Elastic Block Store (Amazon EBS):**
+Amazon Elastic Block Store provides persistent block-level storage volumes for use with Amazon EC2 instances, offering high-performance storage optimized for a variety of workloads.
+
+123)Amazon Elastic File System (Amazon EFS):**
+Amazon Elastic File System is a fully managed file storage service that makes it easy to set up and scale file systems in the AWS Cloud, suitable for a wide range of applications.
+
+124)AWS Elastic Disaster Recovery:**
+AWS Elastic Disaster Recovery is a solution that enables automated and cost-effective disaster recovery for on-premises applications by leveraging AWS cloud resources.
+
+125)Amazon FSx:**
+Amazon FSx is a fully managed file storage service that supports both Windows File Server and Lustre file systems, providing scalable and high-performance file storage for various applications.
+
+126)Amazon S3:**
+Amazon Simple Storage Service (Amazon S3) is an object storage service that offers scalable and durable storage for data, suitable for a wide range of use cases.
+
+127)Amazon S3 Glacier:**
+Amazon S3 Glacier is a low-cost storage service for archiving and long-term backup of data, providing secure and durable storage with retrieval options based on varying access times.
+
+128)AWS Storage Gateway:**
+AWS Storage Gateway is a hybrid cloud storage service that enables seamless integration between on-premises environments and AWS cloud storage, supporting various storage protocols and use cases.
+
+Game Tech: = 10
+
+129)Amazon GameLift:**
+Amazon GameLift is a fully managed service for deploying, operating, and scaling multiplayer game servers, providing low-latency and cost-effective solutions for hosting game sessions.
+
+130)Amazon Lumberyard:**
+Amazon Lumberyard is a free, cross-platform game engine developed by Amazon for creating immersive and visually stunning games, integrating with AWS services for scalable and engaging gameplay experiences.
+
+131)AWS Elemental Appliances and Software:**
+AWS Elemental Appliances and Software provide encoding, transcoding, and delivery solutions for video processing, enabling high-quality video streaming across various devices and platforms.
+
+132)AWS Elemental MediaConnect:**
+AWS Elemental MediaConnect is a secure, reliable, and flexible transport service for live video that allows users to send video streams between different locations.
+
+133)AWS Elemental MediaConvert:**
+AWS Elemental MediaConvert is a file-based video transcoding service that allows users to easily and cost-effectively convert video files into various formats suitable for different devices and applications.
+
+134)AWS Elemental MediaLive:**
+AWS Elemental MediaLive is a live video processing service that enables users to encode, package, and deliver high-quality video streams for live events and 24/7 channels.
+
+135)AWS Elemental MediaPackage:**
+AWS Elemental MediaPackage is a service that prepares and protects live and on-demand video for delivery over the internet, providing content security and formatting for various devices.
+
+136)AWS Elemental MediaStore:**
+AWS Elemental MediaStore is an object storage service optimized for media, providing scalable and secure storage for high-performance media streaming.
+
+137)AWS Elemental MediaTailor:**
+AWS Elemental MediaTailor is a personalized ad insertion service that allows users to deliver targeted ads to viewers during video playback, enhancing the monetization of streaming content.
+
+138)Amazon Interactive Video Service (Amazon IVS):**
+Amazon Interactive Video Service is a fully managed, low-latency live video streaming service that enables users to easily create and deliver interactive video experiences for a wide range of applications.
+
+Robotics: = 1
+
+139)AWS RoboMaker:
+AWS RoboMaker is a cloud robotics service that provides a development environment for building, testing, and deploying robotic applications, allowing developers to create intelligent robotic systems with ease. It includes simulation capabilities to test robots in virtual environments and integrates with various AWS services for efficient deployment and management of robotic applications.
+
+
